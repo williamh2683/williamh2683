@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey there, I'm williamh2683 👋
 
-<!--
-**williamh2683/williamh2683** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data enthusiast turning messy datasets into clear, actionable stories. Based in Sydney, Australia.
 
-Here are some ideas to get you started:
+#### 🛠️ What I use
+Python, Pandas, NumPy, SQL, DuckDB, Jupyter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 What I'm up to
+- Working on data engineering, ETL pipelines, analytics
+- Exploring new frameworks and tools
+- Contributing to open-source projects
+
+📫 Reach me: [@williamh2683](https://github.com/williamh2683) on GitHub
